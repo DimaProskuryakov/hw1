@@ -17,7 +17,7 @@ public class Main {
         Teacher f2 = new Teacher(f1);
         f2.age = 35;
         f2.name = "Gleb";
-        f2.surname = "Vadim";
+        f2.surname = "Vadimov";
         Teacher f3 = new Teacher(f2);
         f3.age = 39;
         f3.name = "Valera";
